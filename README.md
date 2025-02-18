@@ -76,7 +76,7 @@ The program executes the following steps:
 4. Calculate the semester GPA by multiplying the GPA points by the course credit hours (SKS), summing them, and dividing by the total credit hours.
 
 **Output Example**:  
-     ![Screenshot](./lib/img/3.png)
+     ![Screenshot](./lib/img/3.png)  
 
 ---
 
@@ -119,7 +119,7 @@ The program executes the following steps:
    3. If the character matches, it prints the corresponding city name.
    4. If no match is found, it prints an error message saying the code is not found.
 
-   **Output Example**:
+   **Output Example**:  
      ![Screenshot](./lib/img/5.png)
 
    
