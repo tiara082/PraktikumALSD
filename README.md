@@ -75,4 +75,22 @@ The program executes the following steps:
 
    **Output Example**:
 
+### 4. **RoyalGardenManagement.java**
+   **Description**: This file implements a program to manage flower stocks and calculate revenue for different branches of a flower shop called "Royal Garden." The program allows the user to input flower prices, stock levels, and then calculates the total revenue if all flowers are sold.
+
+   **Key Concepts**:
+   - 2D array for storing stock data
+   - User input handling for flower prices and stock levels
+   - Revenue calculation based on stock and flower prices
+   - Array manipulation for adjusting flower stocks due to flower death
+
+   **Explanation**:  
+   The program executes the following steps:
+   1. Accepts flower prices for four types of flowers.
+   2. Accepts flower stock levels for each flower type at four different branches of RoyalGarden.
+   3. Calculates the total revenue for each branch if all flowers are sold.
+   4. Adjusts the stock for the fourth branch after some flowers have died.
+   
+   **Output Example**:
+
 
