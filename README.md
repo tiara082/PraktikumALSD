@@ -169,6 +169,8 @@ The program works in the following way:
 4. Based on the user's selection, the program displays the corresponding information.
 
 **Output Example**:
+
+
      ![Screenshot](./lib/img/7.png)
 
 
