@@ -1,9 +1,9 @@
 |  | Algorithm and Data Structure |
 |--|--|
-| NIM |  1234567|
-| Nama |  You know who |
+| NIM |  244107020097|
+| Nama |  Tiara Febrianie |
 | Kelas | TI - 1I |
-| Repository | [link] (https://github.com/jti-polinema/-01-contoh-laporan-react) |
+| Repository | [link] ( https://github.com/tiara082/PraktikumALSD.git) |
 
 # Labs #1 Programming Fundamentals Review
 
