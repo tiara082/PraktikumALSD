@@ -11,7 +11,7 @@ This repository contains solutions for various algorithms and data structure pro
 
 ## Files Overview
 
-### 1. **calculateGrade.java**
+### 2.1.1 **calculateGrade.java**
    **Description**: This file implements a program to calculate the final grade and letter grade of a student based on scores for assignments, quizzes, mid-tests, and final tests.
 
    **Key Concepts**:
@@ -37,25 +37,7 @@ This repository contains solutions for various algorithms and data structure pro
    
 ---
 
-### 2. **CalculateIPSemester.java**
-**Description**: This file calculates the semester GPA (IP Semester) by converting individual course grades into letter grades, calculating their weight, and computing the weighted average.
-
-**Key Concepts**:
-- Grade-to-letter conversion
-- GPA calculation based on credit hours (SKS)
-- Input validation and error handling
-
-**Explanation**:  
-The program executes the following steps:
-1. Input grades for various courses.
-2. Validate each grade input to ensure it’s within the valid range (0-100).
-3. Convert numeric grades into letter grades and corresponding GPA points.
-4. Calculate the semester GPA by multiplying the GPA points by the course credit hours (SKS), summing them, and dividing by the total credit hours.
-
-**Output Example**:
-     ![Screenshot](img/img1.png)
-
-### 3. **evenNumber.java**
+### 2.2.1 **evenNumber.java**
    **Description**: This file implements a program that uses a student's NIM (Nomor Induk Mahasiswa) to generate a sequence of numbers based on the last two digits of the NIM. The sequence excludes certain values and prints stars for odd numbers.
 
    **Key Concepts**:
@@ -75,7 +57,29 @@ The program executes the following steps:
 
    **Output Example**:
 
-### 4. **RoyalGardenManagement.java**
+---
+
+### 2.3.1 **CalculateIPSemester.java**
+**Description**: This file calculates the semester GPA (IP Semester) by converting individual course grades into letter grades, calculating their weight, and computing the weighted average.
+
+**Key Concepts**:
+- Grade-to-letter conversion
+- GPA calculation based on credit hours (SKS)
+- Input validation and error handling
+
+**Explanation**:  
+The program executes the following steps:
+1. Input grades for various courses.
+2. Validate each grade input to ensure it’s within the valid range (0-100).
+3. Convert numeric grades into letter grades and corresponding GPA points.
+4. Calculate the semester GPA by multiplying the GPA points by the course credit hours (SKS), summing them, and dividing by the total credit hours.
+
+**Output Example**:
+     ![Screenshot](img/img1.png)
+
+---
+
+### 2.4.1 **RoyalGardenManagement.java**
    **Description**: This file implements a program to manage flower stocks and calculate revenue for different branches of a flower shop called "Royal Garden." The program allows the user to input flower prices, stock levels, and then calculates the total revenue if all flowers are sold.
 
    **Key Concepts**:
