@@ -9,22 +9,19 @@ public class CourseScheduler {
 
         System.out.print("Masukkan jumlah kursus: ");
         int n = scanner.nextInt();
-        scanner.nextLine();  // Mengonsumsi karakter newline
+        scanner.nextLine();  
 
-        // Membuat array untuk menyimpan data kursus
         String[] courseNames = new String[n];
         int[] creditHours = new int[n];
         int[] semesters = new int[n];
         String[] lectureDays = new String[n];
 
-        // Memasukkan data kursus
         inputCoursesData(n, courseNames, creditHours, semesters, lectureDays);
 
-        // Menampilkan menu pilihan
         while (true) {
             displayMenu();
             int choice = scanner.nextInt();
-            scanner.nextLine();  // Mengonsumsi karakter newline
+            scanner.nextLine();  
 
             switch (choice) {
                 case 1:
@@ -55,7 +52,6 @@ public class CourseScheduler {
         }
     }
 
-    // Fungsi untuk menampilkan menu pilihan
     public static void displayMenu() {
         System.out.println("\nMenu:");
         System.out.println("1. Tampilkan semua kursus");
@@ -66,7 +62,6 @@ public class CourseScheduler {
         System.out.print("Pilih pilihan Anda: ");
     }
 
-    // Fungsi untuk memasukkan data kursus
     public static void inputCoursesData(int n, String[] courseNames, int[] creditHours, int[] semesters, String[] lectureDays) {
         Scanner scanner = new Scanner(System.in);
 
@@ -81,14 +76,13 @@ public class CourseScheduler {
 
             System.out.print("Semester: ");
             semesters[i] = scanner.nextInt();
-            scanner.nextLine();  // Mengonsumsi karakter newline
+            scanner.nextLine();  
 
             System.out.print("Hari Kuliah: ");
             lectureDays[i] = scanner.nextLine();
         }
     }
 
-    // Fungsi untuk menampilkan semua kursus
     public static void displayAllCourses(String[] courseNames, int[] creditHours, int[] semesters, String[] lectureDays) {
         System.out.println("\nSemua Kursus:");
         for (int i = 0; i < courseNames.length; i++) {
@@ -100,7 +94,6 @@ public class CourseScheduler {
         }
     }
 
-    // Fungsi untuk menampilkan kursus pada hari tertentu
     public static void displayCoursesByDay(String[] courseNames, int[] creditHours, int[] semesters, String[] lectureDays, String day) {
         System.out.println("\nKursus pada hari " + day + ":");
         boolean found = false;
@@ -121,7 +114,6 @@ public class CourseScheduler {
         }
     }
 
-    // Fungsi untuk menampilkan kursus pada semester tertentu
     public static void displayCoursesBySemester(String[] courseNames, int[] creditHours, int[] semesters, String[] lectureDays, int semester) {
         System.out.println("\nKursus pada Semester " + semester + ":");
         boolean found = false;
@@ -142,7 +134,6 @@ public class CourseScheduler {
         }
     }
 
-    // Fungsi untuk mencari kursus berdasarkan nama
     public static void searchCourse(String[] courseNames, int[] creditHours, int[] semesters, String[] lectureDays, String courseName) {
         boolean found = false;
 
