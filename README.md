@@ -55,4 +55,24 @@ The program executes the following steps:
 **Output Example**:
      ![Screenshot](img/img1.png)
 
+### 3. **evenNumber.java**
+   **Description**: This file implements a program that uses a student's NIM (Nomor Induk Mahasiswa) to generate a sequence of numbers based on the last two digits of the NIM. The sequence excludes certain values and prints stars for odd numbers.
+
+   **Key Concepts**:
+   - String manipulation (substring)
+   - Looping and control flow (if-else, continue)
+   - User input handling
+   - Conditional logic for sequence generation
+
+   **Explanation**:  
+   The program executes the following steps:
+   1. The program accepts a student’s NIM (Nomor Induk Mahasiswa) as input.
+   2. It extracts the last two digits of the NIM and treats them as a number.
+   3. If the number is less than 10, it adds 10 to it.
+   4. It then prints a sequence of numbers up to this number, with the following conditions:
+      - Numbers 6 and 10 are skipped.
+      - Odd numbers are replaced with a `*` symbol, while even numbers are printed as they are.
+
+   **Output Example**:
+
 
