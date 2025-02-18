@@ -10,13 +10,11 @@ public class evenNumber {
 
 
         int n = Integer.parseInt(nim.substring(nim.length() - 2));
-        System.out.println(n);
-        
+
         if (n < 10) {
             n +=10;
         }
 
-        System.out.println(n);
         System.out.println("===============");
 
         for (int i = 1; i <=n; i++) {

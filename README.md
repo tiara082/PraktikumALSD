@@ -31,7 +31,7 @@ This repository contains solutions for various algorithms and data structure pro
    4. Convert the final numeric grade to a letter grade using predefined thresholds.
    
    **Output Example**:
-     ![Screenshot](img/img1.png)
+     ![Screenshot](./lib/img/1.png)
 
 
    
@@ -56,6 +56,7 @@ This repository contains solutions for various algorithms and data structure pro
       - Odd numbers are replaced with a `*` symbol, while even numbers are printed as they are.
 
    **Output Example**:
+     ![Screenshot](./lib/img/2.png)
 
 ---
 
@@ -75,7 +76,7 @@ The program executes the following steps:
 4. Calculate the semester GPA by multiplying the GPA points by the course credit hours (SKS), summing them, and dividing by the total credit hours.
 
 **Output Example**:
-     ![Screenshot](img/img1.png)
+     ![Screenshot](./lib/img/3.png)
 
 ---
 
@@ -96,6 +97,10 @@ The program executes the following steps:
    4. Adjusts the stock for the fourth branch after some flowers have died.
    
    **Output Example**:
+     ![Screenshot](./lib/img/4.png)
+
+---
+
 
 ### 3.1 **PlateRecognition.java**
    **Description**: This file implements a program that recognizes the city based on the first character of the vehicle's license plate code. It matches the input character with a predefined list of city names.
@@ -114,6 +119,7 @@ The program executes the following steps:
    4. If no match is found, it prints an error message saying the code is not found.
 
    **Output Example**:
+     ![Screenshot](./lib/img/5.png)
 
    
 ---
@@ -137,6 +143,7 @@ The program executes the following steps:
 4. Displays the result for the chosen calculation.
 
 **Output Example**:
+     ![Screenshot](./lib/img/6.png)
 
 
 ---
@@ -162,5 +169,6 @@ The program works in the following way:
 4. Based on the user's selection, the program displays the corresponding information.
 
 **Output Example**:
+     ![Screenshot](./lib/img/7.png)
 
 
