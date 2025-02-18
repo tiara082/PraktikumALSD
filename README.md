@@ -97,4 +97,70 @@ The program executes the following steps:
    
    **Output Example**:
 
+### 3.1 **PlateRecognition.java**
+   **Description**: This file implements a program that recognizes the city based on the first character of the vehicle's license plate code. It matches the input character with a predefined list of city names.
+
+   **Key Concepts**:
+   - String manipulation (handling uppercase characters)
+   - Array search and matching
+   - User input handling for license plate codes
+   - Iteration through arrays to find matching elements
+
+   **Explanation**:  
+   The program executes the following steps:
+   1. Accepts a single character as input representing the first letter of a vehicle's license plate.
+   2. Checks if the input character exists in a predefined list of city codes.
+   3. If the character matches, it prints the corresponding city name.
+   4. If no match is found, it prints an error message saying the code is not found.
+
+   **Output Example**:
+
+   
+---
+
+### 3.2 **CubeCalculator.java**
+**Description**: This file contains a program for calculating the volume, surface area, and perimeter of a cube. It provides a menu for the user to choose which calculation to perform.
+
+**Key Concepts**:
+- Mathematical calculations for volume, surface area, and perimeter
+- User input handling for cube side length
+- Conditional logic to implement multiple options in the menu
+
+**Explanation**:  
+The program executes the following steps:
+1. Displays a menu for the user to choose a calculation: volume, surface area, or perimeter.
+2. Takes input for the cube's side length.
+3. Based on the user’s choice, it performs the relevant calculation:
+   - Volume = side³
+   - Surface area = 6 × side²
+   - Perimeter = 12 × side
+4. Displays the result for the chosen calculation.
+
+**Output Example**:
+
+
+---
+
+### 3.3 **CourseScheduler.java**
+**Description**: This file is designed to help a user manage a course schedule. It allows users to input course details, display courses by days, semesters, and search for courses by name.
+
+**Key Concepts**:
+- Data input handling for courses and related details (e.g., credit hours, semester, lecture days)
+- Menu-driven program for user interaction
+- Searching and filtering data based on user input
+
+**Explanation**:  
+The program works in the following way:
+1. The user inputs the number of courses.
+2. The user enters the details for each course, such as name, credit hours, semester, and lecture days.
+3. A menu is displayed offering the following options:
+   - View all courses
+   - View courses on a specific day
+   - View courses in a specific semester
+   - Search for a course by name
+   - Exit the program
+4. Based on the user's selection, the program displays the corresponding information.
+
+**Output Example**:
+
 
