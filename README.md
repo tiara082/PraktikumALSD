@@ -1,18 +1,23 @@
-## Getting Started
+|  | Algorithm and Data Structure |
+|--|--|
+| NIM |  1234567|
+| Nama |  You know who |
+| Kelas | TI - 1I |
+| Repository | [link] (https://github.com/jti-polinema/-01-contoh-laporan-react) |
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Labs #1 Programming Fundamentals Review
 
-## Folder Structure
+## 2.1.1. Selection Solution
 
-The workspace contains two folders by default, where:
+The solution is implemented in Pemilihan1.java, and below is screenshot of the result.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![Screenshot](img/img1.png)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Brief explanaton:** There are 4 main step: 
+1. Input all grades
+2. Validate the input
+3. Calculate and convert the final grade
+4. Decide the final status
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 2.1.1. Selection Solution
+Continue to report the result....
