@@ -30,7 +30,7 @@ This repository contains solutions for various algorithms and data structure pro
       - 30% for final test
    4. Convert the final numeric grade to a letter grade using predefined thresholds.
    
-   **Output Example**:
+   **Output Example**:  
      ![Screenshot](./lib/img/1.png)
 
 
@@ -55,7 +55,7 @@ This repository contains solutions for various algorithms and data structure pro
       - Numbers 6 and 10 are skipped.
       - Odd numbers are replaced with a `*` symbol, while even numbers are printed as they are.
 
-   **Output Example**:
+   **Output Example**:  
      ![Screenshot](./lib/img/2.png)
 
 ---
@@ -75,7 +75,7 @@ The program executes the following steps:
 3. Convert numeric grades into letter grades and corresponding GPA points.
 4. Calculate the semester GPA by multiplying the GPA points by the course credit hours (SKS), summing them, and dividing by the total credit hours.
 
-**Output Example**:
+**Output Example**:  
      ![Screenshot](./lib/img/3.png)
 
 ---
@@ -96,8 +96,9 @@ The program executes the following steps:
    3. Calculates the total revenue for each branch if all flowers are sold.
    4. Adjusts the stock for the fourth branch after some flowers have died.
    
-   **Output Example**:
-     ![Screenshot](./lib/img/4.png)
+   **Output Example**:  
+     ![Screenshot](./lib/img/4.1.png)  
+     ![Screenshot](./lib/img/4.2.png)
 
 ---
 
