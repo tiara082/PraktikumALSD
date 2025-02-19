@@ -49,7 +49,10 @@ public class CourseScheduler {
                 default:
                     System.out.println("Pilihan tidak valid, coba lagi.");
             }
+            scanner.close();
+
         }
+        
     }
 
     public static void displayMenu() {
@@ -152,6 +155,7 @@ public class CourseScheduler {
         if (!found) {
             System.out.println("Kursus tidak ditemukan.");
         }
+
     }
 }
 
