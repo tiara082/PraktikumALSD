@@ -6,11 +6,21 @@ public class Course25 {
     int credit;
     int hour;
 
+    public Course25(){
+    }
+    public Course25(String id, String name, int credit, int hour){
+        this.courseID =  id;
+        this.name = name;
+        this.credit = credit;
+        this.hour = hour;
+    }
+
     void print(){
         System.out.println("Course ID: " + courseID);
         System.out.println("Name: " + name);
         System.out.println("Credit: " + credit);
         System.out.println("Hour: " + hour);
+        System.out.println("");
     }
 
     void changeCredit(int newCredit){
@@ -23,6 +33,9 @@ public class Course25 {
     }   
 
     String reduceHour(int hour){
+        if (hour < 1) {
+            return "Invalid hour reduction";         
+        }
         return "Course hour is reduced by " + hour + " hours";
     }
 }

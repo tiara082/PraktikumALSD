@@ -22,6 +22,7 @@ public class Student25 {
         System.out.println("Name: " + name);
         System.out.println("Class: " + className);
         System.out.println("GPA: " + gpa);
+        System.out.println("");
     }
     void changeClass(String newClass){
             className = newClass;            
