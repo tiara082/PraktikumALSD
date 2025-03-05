@@ -31,7 +31,7 @@ This repository contains solutions for various algorithms and data structure pro
    4. Convert the final numeric grade to a letter grade using predefined thresholds.
    
    **Output Example**:  
-     ![Screenshot](./lib/img/1.png)
+     ![Screenshot]()
 
 
    
