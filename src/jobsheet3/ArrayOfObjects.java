@@ -1,4 +1,4 @@
-package jobsheet3.week3;
+package jobsheet3;
 import java.util.Scanner;
 
 public class ArrayOfObjects {

@@ -1,4 +1,4 @@
-package jobsheet3.week3;
+package jobsheet3;
 
 public class Triangle {
     public int base, height;

@@ -1,4 +1,6 @@
-package jobsheet3.week3;
+package jobsheet3;
+
+import jobsheet3.Blocks;
 
 public class ArrayBlocks {
     public static void main(String[] args) {

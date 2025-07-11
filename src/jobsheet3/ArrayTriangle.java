@@ -1,4 +1,4 @@
-package jobsheet3.week3;
+package jobsheet3;
 
 public class ArrayTriangle {
     public static void main(String[] args) {

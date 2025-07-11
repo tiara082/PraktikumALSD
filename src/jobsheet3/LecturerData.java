@@ -1,4 +1,4 @@
-package jobsheet3.week3;    
+package jobsheet3;    
 public class LecturerData {
     public static void showAllLecturerData(Lecturer[] lecturerArray) {
         for (Lecturer lecturer : lecturerArray) {
