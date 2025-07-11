@@ -31,7 +31,7 @@ This repository contains solutions for various algorithms and data structure pro
    4. Convert the final numeric grade to a letter grade using predefined thresholds.
    
    **Output Example**:  
-     ![Screenshot](./lib/img/1.png)
+     ![Screenshot](./lib/img/jobsheet1/1.png)
 
 
    
@@ -56,7 +56,7 @@ This repository contains solutions for various algorithms and data structure pro
       - Odd numbers are replaced with a `*` symbol, while even numbers are printed as they are.
 
    **Output Example**:  
-     ![Screenshot](./lib/img/2.png)
+     ![Screenshot](./lib/img/jobsheet1/2.png)
 
 ---
 
@@ -76,7 +76,7 @@ The program executes the following steps:
 4. Calculate the semester GPA by multiplying the GPA points by the course credit hours (SKS), summing them, and dividing by the total credit hours.
 
 **Output Example**:  
-     ![Screenshot](./lib/img/3.png)  
+     ![Screenshot](./lib/img/jobsheet1/3.png)  
 
 ---
 
@@ -97,8 +97,8 @@ The program executes the following steps:
    4. Adjusts the stock for the fourth branch after some flowers have died.
    
    **Output Example**:  
-     ![Screenshot](./lib/img/4.1.png)  
-     ![Screenshot](./lib/img/4.2.png)
+     ![Screenshot](./lib/img/jobsheet1/4.1.png)  
+     ![Screenshot](./lib/img/jobsheet1/4.2.png)
 
 ---
 
@@ -120,7 +120,7 @@ The program executes the following steps:
    4. If no match is found, it prints an error message saying the code is not found.
 
    **Output Example**:  
-     ![Screenshot](./lib/img/5.png)
+     ![Screenshot](./lib/img/jobsheet1/5.png)
 
    
 ---
