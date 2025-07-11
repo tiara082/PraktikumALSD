@@ -144,8 +144,8 @@ The program executes the following steps:
 4. Displays the result for the chosen calculation.
 
 **Output Example**:  
-     ![Screenshot](./lib/img/6.1.png)  
-     ![Screenshot](./lib/img/6.2.png)
+     ![Screenshot](./lib/img/jobsheet1/6.1.png)  
+     ![Screenshot](./lib/img/jobsheet1/6.2.png)
 
 
 ---
@@ -171,9 +171,10 @@ The program works in the following way:
 4. Based on the user's selection, the program displays the corresponding information.
 
 **Output Example**:   
-     ![Screenshot](./lib/img/7.1.png)  
-     ![Screenshot](./lib/img/7.2.png)  
-     ![Screenshot](./lib/img/7.3.png)  
-     ![Screenshot](./lib/img/7.4.png)  
+     ![Screenshot](./lib/img/jobsheet1/7.1.png)  
+     ![Screenshot](./lib/img/jobsheet1/7.2.png)  
+     ![Screenshot](./lib/img/jobsheet1/7.3.png)  
+     ![Screenshot](./lib/img/jobsheet1/7.4.png)  
+
 
 
